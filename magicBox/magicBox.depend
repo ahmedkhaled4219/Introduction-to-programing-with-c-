@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697732939 source:e:\codeblocks projects\magicbox\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1697808661 source:e:\codeblocks projects\lab3\magicbox\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
