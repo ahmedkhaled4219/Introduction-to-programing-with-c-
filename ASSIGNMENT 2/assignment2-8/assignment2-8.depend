@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697903711 source:e:\codeblocks projects\assignment 2\assignment2-8\main.c
+	<stdio.h>
+	<stdbool.h>
+
