@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698064293 source:e:\codeblocks projects\lab4\menuu\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	"standardtype.h"
+
+1698056518 e:\codeblocks projects\lab4\menuu\standardtype.h
+
